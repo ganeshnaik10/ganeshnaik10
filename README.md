@@ -1,130 +1,98 @@
-<div align="center">
-  <img height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/579fe1183178475.653aa8931b193.gif" alt="Banner GIF" />
-
-  <h1>🎮 Hey, I'm Ganesh Naik 👋</h1>
-  <h3>Game Developer | Full-Stack Web Engineer | Creative Coder</h3>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=ganeshnaik10&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" /> 
-    <img src="https://img.shields.io/badge/Focus-Game%20Dev%20%26%20Web-red?style=for-the-badge" alt="Focus" />
-    <img src="https://img.shields.io/badge/Engines-Unreal%20%7C%20Unity-cyan?style=for-the-badge&logo=unrealengine" alt="Engines" />
-    <img src="https://img.shields.io/badge/Stack-MERN%20%7C%20Next.js-20232a?style=for-the-badge&logo=react" alt="Web Stack" />
-  </p>
-</div>
-
----
-
-### 🚀 About Me
-I am a hybrid developer bridging the gap between **immersive game mechanics** and **scalable web architecture**. Whether I'm managing memory in C++ or designing responsive UI components in React, I focus on building high-performance, engaging experiences.
-
-- 🎮 **Game Dev Focus:** AI-driven NPCs, Procedural Generation, Engine Programming (UE5 & Unity)
-- 🌐 **Web Dev Focus:** Full-Stack Architecture, RESTful APIs, Interactive WebGL/Three.js Experiences
-- 🛠 **Languages & Core:** C++, C#, Python, JavaScript/TypeScript
-- ⚡ **Fun Fact:** I think in *game mechanics and state machines* before writing a single line of code!
-
----
-
-### 💻 Tech Stack & Tools
-
-<table>
-  <tr>
-    <td align="center" width="25%"><b>🎮 Game Engines & Graphics</b></td>
-    <td align="center" width="25%"><b>🌐 Full-Stack Web</b></td>
-    <td align="center" width="25%"><b>💻 Core Languages</b></td>
-    <td align="center" width="25%"><b>🛠 Tools & 3D</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=unreal,unity" /><br>
-      <img src="https://skillicons.dev/icons?i=wasm" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" /><br>
-      <img src="https://skillicons.dev/icons?i=express,mongodb,tailwind" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp,cs,python" /><br>
-      <img src="https://skillicons.dev/icons?i=ts,js" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=blender,git,github" /><br>
-      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,docker" />
-    </td>
-  </tr>
-</table>
-
-*(Also experienced with **SFML** and **OpenGL** for custom rendering and physics systems.)*
-
----
-
-### 🕹️ Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| ⚔️ **PlaySphere** | A sleek, highly-responsive, dark-themed game discovery web platform. | `React` `Node.js` `Tailwind` |
-| 🐉 **Dragon Dodge** | A fast-paced 2D survival game focused on reflex mechanics. | `Python` `Pygame` |
-| 🟩 **Tetris Clone** | A modernized take on the classic with custom grid logic. | `C++` `SFML` |
-| 🏭 **Unity Mini-Games**| A collection of 5 games utilizing the new Input System & Cinemachine. | `C#` `Unity 3D` |
-
----
-
-### 📊 Developer Metrics 
+<!-- 
+=======================================================================
+  GANESH NAIK - ANIMATED TERMINAL V3.0
+  Warning: High-Energy Dynamic Dashboard
+======================================================================= 
+-->
 
 <div align="center">
-  <!-- Top Row: Streak + General Stats -->
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-streak-stats-eight.vercel.app?user=ganeshnaik10&theme=radical&hide_border=true&border_radius=10" alt="streak"/>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ganeshnaik10&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="stats"/>
-      </td>
-    </tr>
-  </table>
-
-  <!-- Second Row: Languages + Profile Summary -->
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshnaik10&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="languages"/>
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganeshnaik10&theme=radical&hide_border=true&border_radius=10" alt="profile summary"/>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshnaik10&theme=react-dark&bg_color=1a1b27&hide_border=true&border_radius=10" alt="activity graph"/>
-  
-  <br/><br/>
-
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ganeshnaik10&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" alt="trophies"/>
-</div>
-
----
-
-### 🌍 Let's Connect
-
-<div align="center">
-  <a href="https://linkedin.com/in/ganesh-naik-71167a24a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <!-- 1. FULL WIDTH ANIMATED HERO BANNER -->
+  <!-- You can replace this with your own hyper-wide looping GIF -->
+  <a href="https://github.com/ganeshnaik10">
+    <img src="https://i.pinimg.com/originals/e8/1f/ff/e81fffd1d35a8f4c6888ba30e014902a.gif" width="100%" style="border-radius: 20px; box-shadow: 0px 0px 20px rgba(0, 255, 204, 0.5);" alt="Cyberpunk Animated Banner">
   </a>
-  <a href="https://x.com/indiegamespark" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/indiegamespark?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://stackoverflow.com/users/ganeshnaik" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
-  </a>
+
+  <br><br>
+
+  <!-- 2. DYNAMIC GLITCH TYPING EFFECT -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE...;Initializing+Ganesh_Naik.exe;Building+Immersive+Worlds;Compiling+Web+Architecture;Code.+Create.+Play.+Repeat." alt="Typing SVG" />
 </div>
 
 <br>
 
-<h3 align="center">"Code ⌨️ | Create 🎨 | Play 🎮 | Repeat 🔁"</h3>
+<!-- 3. HOLOGRAPHIC SKILL GRID -->
+<h2 align="center"><code>&gt; RUNNING_PROCESSES.sh</code></h2>
+<div align="center">
+  <!-- Using standard icons but arranged in a tight, web-like flex cluster -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,python,unreal,unity,blender&perline=6" alt="Game Dev Stack" style="margin-bottom: 10px;" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,mongodb,docker&perline=8" alt="Web Dev Stack" />
+  </a>
+</div>
+
+<br><br>
+
+<!-- 4. DYNAMIC ANIMATED METRICS (Updates in real-time) -->
+<table width="100%" style="border: none; background-color: transparent;">
+  <tr style="border: none;">
+    <td width="50%" align="center" style="border: none;">
+      <!-- Real-time GitHub Stats with Tokyo Night Theme -->
+      <img src="https://github-readme-stats.vercel.app/api?username=ganeshnaik10&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFCC&icon_color=ff007c&text_color=a9b1d6&bg_color=0d1117" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <!-- Real-time Top Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshnaik10&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFCC&text_color=a9b1d6&bg_color=0d1117" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- 5. THE CROWN JEWEL: ANIMATED CONTRIBUTION SNAKE -->
+<h2 align="center"><code>&gt; COMMIT_ACTIVITY_TRACKER</code></h2>
+<div align="center">
+  <p style="color: #8b949e; font-family: monospace; font-size: 12px;">Generating procedural pathfinding based on contribution matrix...</p>
+  
+  <picture>
+    <!-- Dark Mode Animated Snake -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganeshnaik10/ganeshnaik10/output/github-contribution-grid-snake-dark.svg">
+    <!-- Light Mode Animated Snake -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganeshnaik10/ganeshnaik10/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ganeshnaik10/ganeshnaik10/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<br>
+
+<!-- 6. HUD INTERFACE / PROJECTS -->
+<h2 align="center"><code>&gt; DEPLOYED_MODULES</code></h2>
+<table width="100%" style="border-collapse: separate; border-spacing: 15px; border: none;">
+  <tr style="border: none;">
+    <td width="50%" style="background: rgba(0, 255, 204, 0.03); border: 1px solid rgba(0, 255, 204, 0.2); border-radius: 12px; padding: 20px;">
+      <h3 style="margin-top: 0;">⚔️ PlaySphere <img src="https://img.shields.io/badge/LIVE-00FFCC?style=flat-square&labelColor=000&color=00FFCC" align="right"></h3>
+      <p style="color: #a9b1d6; font-size: 14px;">Dark-themed game discovery platform with high-performance responsive UI.</p>
+      <code>Next.js</code> <code>React</code> <code>Tailwind</code>
+    </td>
+    <td width="50%" style="background: rgba(169, 112, 255, 0.03); border: 1px solid rgba(169, 112, 255, 0.2); border-radius: 12px; padding: 20px;">
+      <h3 style="margin-top: 0;">🟩 Custom Tetris <img src="https://img.shields.io/badge/ENGINE-A970FF?style=flat-square&labelColor=000&color=A970FF" align="right"></h3>
+      <p style="color: #a9b1d6; font-size: 14px;">Memory-managed C++ clone utilizing custom grid logic and rendering.</p>
+      <code>C++</code> <code>SFML</code> <code>OpenGL</code>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- 7. FOOTER / RADAR CONNECT -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aadium/aadium/main/assets/wave.gif" width="100" alt="Radar Wave" />
+  <p style="color: #00FFCC; font-family: monospace;">AWAITING_CONNECTION...</p>
+  
+  <a href="https://linkedin.com/in/ganesh-naik-71167a24a" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/indiegamespark" target="_blank">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117" alt="Twitter" />
+  </a>
+</div>
