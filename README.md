@@ -1,114 +1,101 @@
 <div align="center">
-  <img height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/579fe1183178475.653aa8931b193.gif" alt="Banner GIF" style="border-radius: 12px; opacity: 0.9;" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/579fe1183178475.653aa8931b193.gif" alt="Banner GIF" width="100%" style="border-radius: 15px; max-height: 250px; object-fit: cover;" />
 
   <h1>🎮 Hey, I'm Ganesh Naik 👋</h1>
-  <h3>Game Developer | Full-Stack Web Engineer | Creative Coder</h3>
+  
+  <!-- Dynamic Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Game+Developer+%7C+Engine+Programmer;Full-Stack+Web+%26+Next.js+Engineer;Building+Interactive+3D+Experiences;C%2B%2B+%7C+C%23+%7C+Three.js+%7C+React" alt="Typing SVG" />
+  </a>
+
+  <br/>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=ganeshnaik10&label=Profile%20Views&color=A970FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" /> 
     <img src="https://img.shields.io/badge/Focus-Game%20Dev%20%26%20Web-FF007C?style=for-the-badge&labelColor=0D1117" alt="Focus" />
-    <img src="https://img.shields.io/badge/Engines-Unreal%20%7C%20Unity-00FFCC?style=for-the-badge&logo=unrealengine&labelColor=0D1117" alt="Engines" />
-    <img src="https://img.shields.io/badge/Stack-MERN%20%7C%20Next.js-20232a?style=for-the-badge&logo=react&labelColor=0D1117" alt="Web Stack" />
   </p>
 </div>
 
----
+<br/>
 
-### 🚀 About Me
-I am a hybrid developer bridging the gap between **immersive game mechanics** and **scalable web architecture**. Whether I'm managing memory in C++ or designing responsive UI components in React, I focus on building high-performance, engaging experiences.
+## 🚀 About Me
 
-- 🎮 **Game Dev Focus:** AI-driven NPCs, Procedural Generation, Engine Programming (UE5 & Unity)
-- 🌐 **Web Dev Focus:** Full-Stack Architecture, RESTful APIs, Interactive WebGL/Three.js Experiences
-- 🛠 **Languages & Core:** C++, C#, Python, JavaScript/TypeScript
-- ⚡ **Fun Fact:** I think in *game mechanics and state machines* before writing a single line of code!
+I am a hybrid developer bridging the gap between **immersive game mechanics** and **scalable web architecture**. Whether I'm managing memory in C++, building complex state machines in Unreal/Unity, or designing responsive 3D web interfaces with React and Three.js, I focus on building high-performance, interactive experiences.
 
----
+*   🎮 **Game Dev & 3D:** Engine Programming, AI-driven NPCs, Procedural Generation **(Unreal Engine 5, Unity, C++, C#)**
+*   🌐 **Full-Stack Web:** Modern UI/UX, RESTful APIs, Interactive WebGL/Three.js Experiences **(Next.js, React, Node.js)**
+*   🗄️ **Data & Architecture:** Relational and NoSQL Database Management **(PostgreSQL, MongoDB, SQL)**
+*   ⚡ **Fun Fact:** I think in *game loops and state machines* before writing a single line of code!
 
-### 💻 Tech Stack & Tools
+<br/>
 
-<table width="100%" style="background-color: transparent; border: none;">
-  <tr>
-    <td align="center" width="25%"><b>🎮 Game Engines & Graphics</b></td>
-    <td align="center" width="25%"><b>🌐 Full-Stack Web</b></td>
-    <td align="center" width="25%"><b>💻 Core Languages</b></td>
-    <td align="center" width="25%"><b>🛠 Tools & 3D</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=unreal,unity" /><br>
-      <img src="https://skillicons.dev/icons?i=wasm" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" /><br>
-      <img src="https://skillicons.dev/icons?i=express,mongodb,tailwind" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp,cs,python" /><br>
-      <img src="https://skillicons.dev/icons?i=ts,js" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=blender,git,github" /><br>
-      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,docker" />
-    </td>
-  </tr>
-</table>
+## 💻 Tech Stack & Tools
 
-*(Also experienced with **SFML** and **OpenGL** for custom rendering and physics systems.)*
+<div align="center">
+  
+  ### 🎮 Game Engines, 3D & Core Languages
+  <p>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,unreal,unity,blender,wasm" alt="Game Dev Stack" />
+  </p>
 
----
+  ### 🌐 Frontend & 3D Web
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,threejs,tailwind" alt="Frontend Stack" />
+  </p>
 
-### 🕹️ Featured Projects
+  ### ⚙️ Backend & Databases
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,mysql" alt="Backend Stack" />
+  </p>
 
-| Project | Description | Tech Stack |
+  ### 🛠 Architecture & Tools
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,linux" alt="Tools Stack" />
+  </p>
+
+</div>
+
+<br/>
+
+## 🕹️ Featured Projects
+
+| 🏆 Project | 📜 Description | 🛠️ Tech Stack |
 | :--- | :--- | :--- |
-| ⚔️ **PlaySphere** | A sleek, highly-responsive, dark-themed game discovery web platform. | `React` `Node.js` `Tailwind` |
-| 🐉 **Dragon Dodge** | A fast-paced 2D survival game focused on reflex mechanics. | `Python` `Pygame` |
-| 🟩 **Tetris Clone** | A modernized take on the classic with custom grid logic. | `C++` `SFML` |
-| 🏭 **Unity Mini-Games**| A collection of 5 games utilizing the new Input System & Cinemachine. | `C#` `Unity 3D` |
+| **[PlaySphere](#)** | A sleek, highly-responsive, dark-themed game discovery web platform. | `React` `Next.js` `Node.js` `PostgreSQL` |
+| **[Interactive 3D Web](#)** | Immersive browser experiences using WebGL and custom shaders. | `Three.js` `React Fiber` `Tailwind` |
+| **[Dragon Dodge](#)** | A fast-paced 2D survival game focused on reflex mechanics. | `Python` `Pygame` |
+| **[Tetris Clone](#)** | A modernized take on the classic with custom grid logic and memory management. | `C++` `SFML` `OpenGL` |
+| **[Unity Mini-Games](#)**| A collection of 5 games utilizing the new Input System & Cinemachine. | `C#` `Unity 3D` |
 
----
+*(Note: Replace the `#` in the markdown links with your actual project repository URLs!)*
 
-### 📊 Developer Metrics 
+<br/>
+
+## 📊 Developer Metrics 
 
 <div align="center">
   <!-- Top Row: Streak + General Stats -->
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-streak-stats-eight.vercel.app?user=ganeshnaik10&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&v=1" alt="streak"/>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ganeshnaik10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=0D1117&v=1" alt="stats"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ganeshnaik10&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&v=1" alt="streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ganeshnaik10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=0D1117&v=1" alt="stats" height="170" />
 
-  <!-- Second Row: Languages + Profile Summary -->
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshnaik10&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&v=1" alt="languages"/>
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganeshnaik10&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&v=1" alt="profile summary"/>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshnaik10&theme=tokyo-night&bg_color=0D1117&hide_border=true&border_radius=10&v=1" alt="activity graph"/>
-  
   <br/><br/>
 
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ganeshnaik10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4&v=1" alt="trophies"/>
+  <!-- Second Row: Languages + Profile Summary -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshnaik10&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&v=1" alt="languages" height="190" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganeshnaik10&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&v=1" alt="profile summary" height="190" />
+
+  <br/><br/>
+
+  <!-- Activity Graph -->
+  <!-- Activity Graph (Stable Alternative) -->
+  <a href="https://github.com/ganeshnaik10">
+    <img src="https://ghchart.rshah.org/A970FF/ganeshnaik10" alt="Activity Graph" width="100%" />
+  </a>
 </div>
 
----
+<br/>
 
-### 🌍 Let's Connect
+## 🌍 Let's Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/ganesh-naik-71167a24a" target="_blank">
@@ -117,7 +104,7 @@ I am a hybrid developer bridging the gap between **immersive game mechanics** an
   <a href="https://x.com/indiegamespark" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" alt="Twitter" />
   </a>
-  <a href="https://www.instagram.com/indiegamespark?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
+  <a href="https://www.instagram.com/indiegamespark" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram" />
   </a>
   <a href="https://stackoverflow.com/users/ganeshnaik" target="_blank">
@@ -125,6 +112,8 @@ I am a hybrid developer bridging the gap between **immersive game mechanics** an
   </a>
 </div>
 
-<br>
+<br/>
 
-<h3 align="center">"Code ⌨️ | Create 🎨 | Play 🎮 | Repeat 🔁"</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A970FF&height=100&section=footer" width="100%"/>
+</div>
